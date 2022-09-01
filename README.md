@@ -1,7 +1,7 @@
 ## AWS-Certified-Cloud-Practitioner-Notes
 
 **List of modules**:
-##### Module 1 - Introduction to Amazon Web Services
+#### Module 1 - Introduction to Amazon Web Services
 #### Module 2 - Compute in the Cloud
 #### Module 3 - Global Infrastructure and Reliability
 #### Module 4 - Networking
